@@ -1,4 +1,4 @@
-## Hi there I'm Julia👋
+## Hi there I'm Julia🌱
 
 _______________________________________________________________________________________
 
@@ -7,22 +7,44 @@ ________________________________________________________________________________
 🧬 Degree in Biological Sciences
 🌱 Specialization in Environmental Management
 ______________________________________________________________________________________________
-## 💻 About Me
+## 👩‍💻 About Me
 
 I'm currently studying **Multiplatform Software Development at FATEC**, with an interest in Python, web development, databases, and technology.
 
 My background in **Biological Sciences** also influences my interests in projects that connect technology, science, and the environment.
 ______________________________________________________________________________________________
-## 🚀 Technologies
+## 💻 Technologies
 
-* Python
-* JavaScript
-* SQL
-* HTML & CSS
-* Flask
-* Docker
-* MariaDB
-* Git & GitHub
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" width="45"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=javascript" width="45"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" width="45"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" width="45"/>
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=flask" width="45"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" width="45"/>
+</a>
+<a href="https://mariadb.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mariadb" width="45"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" width="45"/>
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
 _______________________________________________________________________________________
 
 ## 🔬 Projects
