@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi there I'm Julia👋
 
-<!--
-**juliacarolina728-sudo/juliacarolina728-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_______________________________________________________________________________________
 
-Here are some ideas to get you started:
+🎓 Software Developer in training
+🐍 Software Development student
+🧬 Degree in Biological Sciences
+🌱 Specialization in Environmental Management
+______________________________________________________________________________________________
+## 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently studying **Multiplatform Software Development at FATEC**, with an interest in Python, web development, databases, and technology.
+
+My background in **Biological Sciences** also influences my interests in projects that connect technology, science, and the environment.
+______________________________________________________________________________________________
+## 🚀 Technologies
+
+* Python
+* JavaScript
+* SQL
+* HTML & CSS
+* Flask
+* Docker
+* MariaDB
+* Git & GitHub
+_______________________________________________________________________________________
+
+## 🔬 Projects
+
+🦎 **Serpentes-ID SP**
+A project focused on identifying snakes found in the state of São Paulo, Brazil.
+
+📊 **Radar Cidadão**
+A project for exploring and visualizing public data.
+
+____________________________________________________________________________________________________
+
+## 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-carolina-dos-santos-in%C3%A1cio/) • [Portfolio](https://portf-lio-chi-six.vercel.app/)
