@@ -32,7 +32,7 @@ ________________________________________________________________________________
 </a>
 
 <a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" alt="Flask"/>
+  <img src="https://skillicons.dev/icons?i=flask" width="45"/>
 </a>
 
 <a href="https://www.docker.com/" target="_blank">
