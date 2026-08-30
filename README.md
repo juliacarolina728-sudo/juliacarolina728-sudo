@@ -14,20 +14,20 @@
 
 <br>
 
-## `>` About_Me.exe
+## `>` About_Me
 
-```yaml
-name: Julia Carolina
-role: Software Developer in Training
-education:
-  - Multiplatform Software Development @ FATEC
-  - B.Sc. in Biological Sciences
-  - Specialization in Environmental Management
-focus: [Python, Web Development, Databases]
-signature_trait: >
-  Connects technology, science and the environment —
-  proof that a career shift doesn't erase what came before it.
-```
+Hi there I'm Julia🌱
+
+🎓 Software Developer in training
+🐍 Software Development student
+🧬 Degree in Biological Sciences
+🌱 Specialization in Environmental Management
+
+**👩‍💻 About Me**
+
+I'm currently studying Multiplatform Software Development at FATEC, with an interest in Python, web development, databases, and technology.
+
+My background in Biological Sciences also influences my interests in projects that connect technology, science, and the environment.
 
 <br>
 
@@ -60,6 +60,7 @@ signature_trait: >
 
 <a href="https://github.com/APILumina/API1_DSM_Lumina">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=APILumina&repo=API1_DSM_Lumina&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d9ff&text_color=d9d8e7" />
+<br><sub>🤝 team project</sub>
 </a>
 <a href="https://github.com/juliacarolina728-sudo/chave-serpentes">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliacarolina728-sudo&repo=chave-serpentes&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d9ff&text_color=d9d8e7" />
@@ -107,19 +108,6 @@ julia@dev:~$ _
 <br>
 
 
-
-## `>` Contribution_Grid.snk
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/juliacarolina728-sudo/juliacarolina728-sudo/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-
-
-<br>
-
 ## `>` Connect
 
 <div align="center">
@@ -134,5 +122,5 @@ julia@dev:~$ _
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:1a1a4a,100:0f0c29&height=120&section=footer" width="100%"/>
 
 <div align="center">
-<sub>⚡ System status: <b>online</b> — thanks for stopping by.</sub>
+<sub>🍃 System status: <b>online</b> — thanks for stopping by.</sub>
 </div>
