@@ -95,7 +95,7 @@ julia@dev:~$ _
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliacarolina728-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d9ff&text_color=d9d8e7" />
+
 
 <img src="https://streak-stats.demolab.com?user=juliacarolina728-sudo&theme=tokyonight&hide_border=true&background=0f0c29&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
 
