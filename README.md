@@ -1,67 +1,55 @@
-## Hi there I'm Julia🌱
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a4a,100:00d9ff&height=260&section=header&text=JULIA%20CAROLINA&fontSize=44&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=%3E%20SYSTEM%20ONLINE%20_%20SOFTWARE%20DEVELOPER%20IN%20TRAINING&descAlignY=55&descSize=16&descColor=00d9ff" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Initializing+profile...;Software+Developer+in+Training+%F0%9F%8C%B1;Python+%7C+JavaScript+%7C+SQL;Bridging+Biology+%26+Technology+%F0%9F%A7%AC" alt="Typing SVG" /> <br>
 
-_______________________________________________________________________________________
+<a href="https://www.linkedin.com/in/j%C3%BAlia-carolina-dos-santos-in%C3%A1cio/"><img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0f0c29" /></a> <a href="https://portf-lio-chi-six.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=0f0c29" /></a> <a href="https://github.com/juliacarolina728-sudo"><img src="https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=0f0c29" /></a>
 
-🎓 Software Developer in training
-🐍 Software Development student
-🧬 Degree in Biological Sciences
-🌱 Specialization in Environmental Management
-______________________________________________________________________________________________
-## 👩‍💻 About Me
+</div> <br>
+> About_Me.exe
+name: Julia Carolina
+role: Software Developer in Training
+education:
+  - Multiplatform Software Development @ FATEC
+  - B.Sc. in Biological Sciences
+  - Specialization in Environmental Management
+focus: [Python, Web Development, Databases]
+signature_trait: >
+  Connects technology, science and the environment —
+  proof that a career shift doesn't erase what came before it.
+  <br>
+> Tech_Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode,figma&theme=dark" /> </div> <br>
 
-I'm currently studying **Multiplatform Software Development at FATEC**, with an interest in Python, web development, databases, and technology.
+> Tools
+<div align="center">
+</div> <br>
+> Projects
+<div align="center"> <a href="https://github.com/juliacarolina728-sudo/Serpentes-ID-SP"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliacarolina728-sudo&repo=Serpentes-ID-SP&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d9ff&text_color=d9d8e7" /> </a> <a href="https://github.com/juliacarolina728-sudo/Radar-Cidadao"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliacarolina728-sudo&repo=Radar-Cidadao&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d9ff&text_color=d9d8e7" /> </a> </div>
+<br>
+> Current_Objectives
+julia@dev:~$ cat objectives.log
 
-My background in **Biological Sciences** also influences my interests in projects that connect technology, science, and the environment.
-______________________________________________________________________________________________
-## 💻 Technologies
+[x] Complete Multiplatform Software Development degree
+[ ] Contribute to open source projects
+[ ] Build full-stack applications end-to-end
+[ ] Merge software development with environmental science
+[ ] Deepen SQL & database design skills
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
-</a>
+julia@dev:~$ _
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
-</a>
+<br>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
-</a>
+> GitHub_Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=juliacarolina728-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d9ff&icon_color=00d9ff&text_color=d9d8e7&count_private=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliacarolina728-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d9ff&text_color=d9d8e7" /> <img src="https://streak-stats.demolab.com?user=juliacarolina728-sudo&theme=tokyonight&hide_border=true&background=0f0c29&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliacarolina728-sudo&theme=react-dark&bg_color=0f0c29&color=00d9ff&line=00d9ff&point=ffffff&hide_border=true" width="100%"/> </div> <br>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
-</a>
+> Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=juliacarolina728-sudo&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" /> </div> <br>
 
-<a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=flask" width="45"/>
-</a>
+> Contribution_Grid.snk
+<div align="center"> <img src="https://raw.githubusercontent.com/juliacarolina728-sudo/juliacarolina728-sudo/output/github-contribution-grid-snake-dark.svg" width="100%" /> </div>
+<br>
 
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker"/>
-</a>
+Connect
+<div align="center">
 
-<a href="https://mariadb.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="45" alt="MariaDB"/>
-</a>
+<a href="https://www.linkedin.com/in/j%C3%BAlia-carolina-dos-santos-in%C3%A1cio/"><img src="https://img.shields.io/badge/-LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00d9ff" /></a> <a href="https://portf-lio-chi-six.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=00d9ff" /></a>
 
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
-</a>
-_______________________________________________________________________________________
-
-## 🔬 Projects
-
-🦎 **Serpentes-ID SP**
-A project focused on identifying snakes found in the state of São Paulo, Brazil.
-
-📊 **Radar Cidadão**
-A project for exploring and visualizing public data.
-
-____________________________________________________________________________________________________
-
-## 📫 Connect with Me
-
-[LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-carolina-dos-santos-in%C3%A1cio/) • [Portfolio](https://portf-lio-chi-six.vercel.app/)
+</div> <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:1a1a4a,100:0f0c29&height=120&section=footer" width="100%"/> <div align="center"> <sub>⚡ System status: <b>online</b> — thanks for stopping by.</sub> </div>
