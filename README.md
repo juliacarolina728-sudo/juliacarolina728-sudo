@@ -106,15 +106,7 @@ julia@dev:~$ _
 
 <br>
 
-## `>` Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=juliacarolina728-sudo&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" />
-
-</div>
-
-<br>
 
 ## `>` Contribution_Grid.snk
 
@@ -124,7 +116,7 @@ julia@dev:~$ _
 
 </div>
 
-> 🐍 Essa animação só aparece depois de ativar a GitHub Action `snake.yml` (arquivo separado, instruções logo abaixo).
+
 
 <br>
 
