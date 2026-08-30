@@ -6,8 +6,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/j%C3%BAlia-carolina-dos-santos-in%C3%A1cio/"><img src="https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0f0c29" /></a>
-<a href="https://portf-lio-chi-six.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=0f0c29" /></a>
+
 <a href="https://github.com/juliacarolina728-sudo"><img src="https://img.shields.io/badge/GitHub-00D9FF?style=for-the-badge&logo=github&logoColor=0f0c29" /></a>
 
 </div>
