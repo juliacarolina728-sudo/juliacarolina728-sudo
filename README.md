@@ -4,6 +4,7 @@
 
 </div> <br>
 > About_Me.exe
+yaml
 name: Julia Carolina
 role: Software Developer in Training
 education:
@@ -14,17 +15,22 @@ focus: [Python, Web Development, Databases]
 signature_trait: >
   Connects technology, science and the environment —
   proof that a career shift doesn't erase what came before it.
-  <br>
+<br>
 > Tech_Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode,figma&theme=dark" /> </div> <br>
-
 > Tools
 <div align="center">
+
+Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem
+
 </div> <br>
 > Projects
 <div align="center"> <a href="https://github.com/juliacarolina728-sudo/Serpentes-ID-SP"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliacarolina728-sudo&repo=Serpentes-ID-SP&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d9ff&text_color=d9d8e7" /> </a> <a href="https://github.com/juliacarolina728-sudo/Radar-Cidadao"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=juliacarolina728-sudo&repo=Radar-Cidadao&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d9ff&text_color=d9d8e7" /> </a> </div>
+
+
 <br>
 > Current_Objectives
+bash
 julia@dev:~$ cat objectives.log
 
 [x] Complete Multiplatform Software Development degree
@@ -34,20 +40,18 @@ julia@dev:~$ cat objectives.log
 [ ] Deepen SQL & database design skills
 
 julia@dev:~$ _
-
 <br>
-
 > GitHub_Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=juliacarolina728-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d9ff&icon_color=00d9ff&text_color=d9d8e7&count_private=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliacarolina728-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d9ff&text_color=d9d8e7" /> <img src="https://streak-stats.demolab.com?user=juliacarolina728-sudo&theme=tokyonight&hide_border=true&background=0f0c29&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliacarolina728-sudo&theme=react-dark&bg_color=0f0c29&color=00d9ff&line=00d9ff&point=ffffff&hide_border=true" width="100%"/> </div> <br>
-
 > Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=juliacarolina728-sudo&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" /> </div> <br>
-
 > Contribution_Grid.snk
 <div align="center"> <img src="https://raw.githubusercontent.com/juliacarolina728-sudo/juliacarolina728-sudo/output/github-contribution-grid-snake-dark.svg" width="100%" /> </div>
-<br>
 
-Connect
+
+
+<br>
+> Connect
 <div align="center">
 
 <a href="https://www.linkedin.com/in/j%C3%BAlia-carolina-dos-santos-in%C3%A1cio/"><img src="https://img.shields.io/badge/-LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00d9ff" /></a> <a href="https://portf-lio-chi-six.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=00d9ff" /></a>
