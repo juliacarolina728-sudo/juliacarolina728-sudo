@@ -101,7 +101,7 @@ julia@dev:~$ _
 
 <img src="https://streak-stats.demolab.com?user=juliacarolina728-sudo&theme=tokyonight&hide_border=true&background=0f0c29&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juliacarolina728-sudo&theme=react-dark&bg_color=0f0c29&color=00d9ff&line=00d9ff&point=ffffff&hide_border=true" width="100%"/>
+
 
 </div>
 
