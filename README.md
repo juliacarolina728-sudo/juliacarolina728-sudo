@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a4a,100:00d9ff&height=260&section=header&text=JULIA%20CAROLINA&fontSize=44&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=%3E%20SYSTEM%20ONLINE%20_%20SOFTWARE%20DEVELOPER%20IN%20TRAINING&descAlignY=55&descSize=16&descColor=00d9ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a4a,100:ffd60a&height=260&section=header&text=JULIA%20CAROLINA&fontSize=44&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=%3E%20SYSTEM%20ONLINE%20_%20SOFTWARE%20DEVELOPER%20IN%20TRAINING&descAlignY=55&descSize=16&descColor=ffd60a" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Initializing+profile...;Software+Developer+in+Training+%F0%9F%8C%B1;Python+%7C+JavaScript+%7C+SQL;Bridging+Biology+%26+Technology+%F0%9F%A7%AC" alt="Typing SVG" />
 
@@ -58,7 +58,7 @@ My background in Biological Sciences also influences my interests in projects th
 #  Current_Objectives
 
 ```bash
-julia@dev:~$ cat objectives.log
+
 
 [x] Complete Multiplatform Software Development degree
 [ ] Contribute to open source projects
@@ -66,7 +66,7 @@ julia@dev:~$ cat objectives.log
 [ ] Merge software development with environmental science
 [ ] Deepen SQL & database design skills
 
-julia@dev:~$ _
+
 ```
 
 <br>
@@ -97,7 +97,7 @@ julia@dev:~$ _
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:1a1a4a,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd60a,50:1a1a4a,100:0f0c29&height=120&section=footer" width="100%"/>
 
 <div align="center">
 <sub>🍃 System status: <b>online</b> — thanks for stopping by.</sub>
