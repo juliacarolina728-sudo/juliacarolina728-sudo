@@ -14,7 +14,7 @@
 
 <br>
 
-## `>` About_Me
+#  About_Me
 
 Hi there I'm Julia🌱
 
@@ -23,7 +23,7 @@ Hi there I'm Julia🌱
 🧬 Degree in Biological Sciences
 🌱 Specialization in Environmental Management
 
-**👩‍💻 About Me**
+
 
 I'm currently studying Multiplatform Software Development at FATEC, with an interest in Python, web development, databases, and technology.
 
@@ -31,7 +31,7 @@ My background in Biological Sciences also influences my interests in projects th
 
 <br>
 
-## `>` Tech_Stack
+# Tech_Stack
 
 <div align="center">
 
@@ -41,7 +41,7 @@ My background in Biological Sciences also influences my interests in projects th
 
 <br>
 
-## `>` Tools
+# Tools
 
 <div align="center">
 
@@ -54,7 +54,7 @@ My background in Biological Sciences also influences my interests in projects th
 
 <br>
 
-## `>` Projects
+# Projects
 
 <div align="center">
 
@@ -76,7 +76,7 @@ My background in Biological Sciences also influences my interests in projects th
 
 <br>
 
-## `>` Current_Objectives
+#  Current_Objectives
 
 ```bash
 julia@dev:~$ cat objectives.log
@@ -92,7 +92,7 @@ julia@dev:~$ _
 
 <br>
 
-## `>` GitHub_Stats
+#  GitHub_Stats
 
 <div align="center">
 
