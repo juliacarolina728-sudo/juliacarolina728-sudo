@@ -53,27 +53,7 @@ My background in Biological Sciences also influences my interests in projects th
 
 <br>
 
-# Projects
 
-<div align="center">
-
-<a href="https://github.com/APILumina/API1_DSM_Lumina">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=APILumina&repo=API1_DSM_Lumina&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d9ff&text_color=d9d8e7" />
-<br><sub>🤝 team project</sub>
-</a>
-<a href="https://github.com/juliacarolina728-sudo/chave-serpentes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=juliacarolina728-sudo&repo=chave-serpentes&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d9ff&text_color=d9d8e7" />
-</a>
-<a href="https://github.com/juliacarolina728-sudo/av1_Desenvolvimento_web_II">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=juliacarolina728-sudo&repo=av1_Desenvolvimento_web_II&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d9ff&text_color=d9d8e7" />
-</a>
-<a href="https://github.com/juliacarolina728-sudo/usat-faculdade-fic">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=juliacarolina728-sudo&repo=usat-faculdade-fic&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00d9ff&text_color=d9d8e7" />
-</a>
-
-</div>
-
-<br>
 
 #  Current_Objectives
 
